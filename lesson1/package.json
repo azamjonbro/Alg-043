@@ -1,0 +1,21 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "description": "Bu bizning vue js bo'yicha birinchi darsimiz file structuresi iltimos darsga etiborliroq bo'linglar",
+  "main": "index.js",
+  "scripts": {
+    "laylo": "node index.js"
+  },
+  "keywords": [
+    "VueJS",
+    "Lesson1",
+    "Kirish",
+    "Intro",
+    "Introduction"
+  ],
+  "author": "azamjonbro",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.5.0"
+  }
+}
